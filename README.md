@@ -13,8 +13,12 @@
 ### 和为之献身的决心。
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingketsing)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=qingketsing&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qingketsing&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io" />
+</a>
 ## 📖 Working on
 
 - **Directions:** Infra *- huh... I'm tring my best*
