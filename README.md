@@ -13,6 +13,8 @@
 ### 和为之献身的决心。
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingketsing)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📖 Working on
 
 - **Directions:** Infra *- huh... I'm tring my best*
