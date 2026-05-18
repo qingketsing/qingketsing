@@ -6,6 +6,10 @@
 [![BiliBili][brand_bilibili]](https://space.bilibili.com/548020217)
 [![Gmail][brand_gmail]](mailto:ljw329426@163.com)
 
+[brand_github]: https://img.shields.io/badge/GitHub-qingketsing-181717?style=flat-square&logo=github&logoColor=white
+[brand_bilibili]: https://img.shields.io/badge/BiliBili-548020217-00A1D6?style=flat-square&logo=bilibili&logoColor=white
+[brand_gmail]: https://img.shields.io/badge/Email-ljw329426%40163.com-D14836?style=flat-square&logo=gmail&logoColor=white
+
 ### 如果你想动手开发什么全新的技术
 ### 你不需要几百万美元的资金
 ### 你只需要在冰箱里放满比萨和可乐
