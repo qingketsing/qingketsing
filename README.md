@@ -18,15 +18,15 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=qingketsing&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qingketsing&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qingketsing&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingketsing&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io" />
 </a>
 
 ## 📖 Working on
 
-- **Directions:** Infra *- huh... I'm tring my best*
+- **Directions:** Infra *- huh... I'm trying my best*
 
 - **Interests:** Web Backend & Cloud Native *- lol*
 
