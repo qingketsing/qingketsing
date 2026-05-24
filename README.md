@@ -19,10 +19,10 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=qingketsing&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&v=20260524" />
+  <img height="205" align="center" src="https://github-stats-extended.vercel.app/api?username=qingketsing&show_icons=true&theme=transparent&line_height=30&card_width=500&v=20260524-3" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qingketsing&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io&hide=html,css&v=20260524" />
+  <img height="205" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qingketsing&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io&hide=html,css&card_width=360&v=20260524-3" />
 </a>
 
 ---
