@@ -15,15 +15,17 @@
 ### 你只需要在冰箱里放满比萨和可乐
 ### 再有一台便宜的计算机
 ### 和为之献身的决心。
-
+---
+## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=qingketsing&show_icons=true&theme=transparent&v=20260520" />
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=qingketsing&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&v=20260524" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qingketsing&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io&v=20260520" />
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qingketsing&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io&hide=html,css&v=20260524" />
 </a>
 
+---
 ## 📖 Working on
 
 - **Directions:** Infra *- huh... I'm trying my best*
